@@ -1,0 +1,45 @@
+
+body{
+    color: rgb(217, 215, 215);
+    background-color: rgba(0, 0, 0, 0.826);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#codigo_tarjeta{
+    width: 45px;
+}
+
+.formulario{
+    margin: 90px auto;
+    background-color:rgba(155, 144, 144, 0.207);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+    max-width: 500px;
+    
+   
+}
+.boton_aceptar {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color:rgb(217, 215, 215);; 
+    color: rgba(0, 0, 0, 0.745); 
+    text-decoration: none;
+    border: none; 
+    border-radius: 5px; 
+  }
+
+  .boton_cancelar {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: rgb(217, 215, 215);; 
+    color: rgba(0, 0, 0, 0.745); 
+    text-decoration: none; 
+    border: none; 
+    border-radius: 5px; 
+  }
+
